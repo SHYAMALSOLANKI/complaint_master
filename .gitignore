@@ -1,0 +1,45 @@
+# PB2S Complaint System - Generated Files
+
+# Complaint storage files
+complaints.json
+*_complaints_*.json
+simulation_*.json
+
+# Audit reports
+audit_report.json
+*_audit*.json
+
+# Example outputs
+example_*.json
+lifecycle_*.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test coverage
+.coverage
+htmlcov/
